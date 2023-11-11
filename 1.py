@@ -10,7 +10,7 @@ dataframe = pd.DataFrame({
 'second column':[10,20,30,40],
 })
 
-st.dataframe(dataframe, use_container_width=False)
+st.dataframe(dataframe, use_container_width=True)
 
 st.table(dataframe)
 
