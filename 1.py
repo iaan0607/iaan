@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 
-st.title('ㄷㅇㅌㅍㄹㅇ ㅌㅌㄹㅇ')
+st.title('장이안')
 st.write("Hello **world**")
 
 dataframe = pd.DataFrame({
